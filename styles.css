@@ -10,7 +10,7 @@ td {
 td, th {
    padding: 4px;;
 }
-table, td, th {
+table, td, th, tr {
    border: 1px solid black;
    border-collapse: collapse;
 }
