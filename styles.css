@@ -4,7 +4,7 @@ table {
    font-family: Arial, Helvetica, sans-serif;
    margin: 16px;
 }
-td {
+th, td {
    text-align: right;
 }
 td, th {
@@ -13,7 +13,4 @@ td, th {
 table, td, th, tr {
    border: 1px solid black;
    border-collapse: collapse;
-}
-th {
-   text-align: center;
 }
